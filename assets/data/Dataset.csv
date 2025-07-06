@@ -1,0 +1,101 @@
+ID,Age,Gender,Country,Education,Income,Online_Consumer,AI_Endorsement,AI_Satisfication,AI_Tools_Used _Chatbots,AI_Tools_Used_Virtual_Assistant,AI_Tools_Used_Voice&Photo_Search,Payment_Method_Credit/Debit,Payment_Method_COD,Payment_Method_Ewallet,Product_Category_Appliances,Product_Category_Electronics,Product_Category_Groceries,Product_Category_Personal_Care,Product_Category_Clothing
+1,25-34,Male,United States,Bachelor's,50000-75000,YES,YES,Satisfied,YES,NO,YES,YES,NO,NO,NO,NO,NO,NO,YES
+2,35-44,Female,Canada,Master's,75000-100000,YES,YES,Satisfied,YES,YES,NO,YES,NO,NO,NO,YES,NO,NO,NO
+3,18-24,Male,United Kingdom,High School,25000-50000,YES,NO,Not Satisfied,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO
+4,45-54,Female,Germany,PhD,100000+,YES,YES,Satisfied,YES,YES,YES,NO,NO,YES,NO,NO,NO,YES,NO
+5,25-34,Male,France,Bachelor's,50000-75000,YES,YES,Satisfied,YES,NO,YES,YES,NO,NO,NO,NO,NO,NO,YES
+6,35-44,Female,Australia,Master's,75000-100000,YES,YES,Satisfied,YES,YES,NO,YES,NO,NO,YES,NO,NO,NO,NO
+7,18-24,Male,Japan,High School,25000-50000,YES,NO,Not Satisfied,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO
+8,55-64,Female,India,Bachelor's,25000-50000,YES,YES,Satisfied,YES,YES,YES,NO,NO,YES,NO,NO,NO,YES,NO
+9,25-34,Male,Brazil,High School,25000-50000,YES,NO,Not Satisfied,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO
+10,35-44,Female,Mexico,Bachelor's,50000-75000,YES,YES,Satisfied,YES,NO,YES,YES,NO,NO,NO,YES,NO,NO,NO
+11,18-24,Male,Spain,High School,25000-50000,YES,NO,Not Satisfied,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO
+12,45-54,Female,Italy,Master's,75000-100000,YES,YES,Satisfied,YES,YES,NO,YES,NO,NO,YES,NO,NO,NO,NO
+13,25-34,Male,Netherlands,Bachelor's,50000-75000,YES,YES,Satisfied,YES,NO,YES,YES,NO,NO,NO,NO,NO,NO,YES
+14,35-44,Female,Sweden,PhD,100000+,YES,YES,Satisfied,YES,YES,YES,NO,NO,YES,NO,YES,NO,NO,NO
+15,18-24,Male,Norway,High School,25000-50000,YES,NO,Not Satisfied,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO
+16,55-64,Female,Denmark,Bachelor's,50000-75000,YES,YES,Satisfied,YES,YES,NO,YES,NO,NO,YES,NO,NO,NO,NO
+17,25-34,Male,Finland,Master's,75000-100000,YES,YES,Satisfied,YES,NO,YES,YES,NO,NO,NO,YES,NO,NO,NO
+18,35-44,Female,Switzerland,PhD,100000+,YES,YES,Satisfied,YES,YES,YES,NO,NO,YES,NO,NO,NO,YES,NO
+19,18-24,Male,Austria,High School,25000-50000,YES,NO,Not Satisfied,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO
+20,45-54,Female,Belgium,Bachelor's,50000-75000,YES,YES,Satisfied,YES,YES,NO,YES,NO,NO,YES,NO,NO,NO,NO
+21,25-34,Male,Poland,High School,25000-50000,YES,NO,Not Satisfied,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO
+22,35-44,Female,Czech Republic,Bachelor's,50000-75000,YES,YES,Satisfied,YES,NO,YES,YES,NO,NO,NO,YES,NO,NO,NO
+23,18-24,Male,Hungary,High School,25000-50000,YES,NO,Not Satisfied,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO
+24,55-64,Female,Slovakia,Bachelor's,25000-50000,YES,YES,Satisfied,YES,YES,YES,NO,NO,YES,NO,NO,NO,YES,NO
+25,25-34,Male,Slovenia,Master's,50000-75000,YES,YES,Satisfied,YES,NO,YES,YES,NO,NO,NO,NO,NO,NO,YES
+26,35-44,Female,Croatia,Bachelor's,50000-75000,YES,YES,Satisfied,YES,YES,NO,YES,NO,NO,YES,NO,NO,NO,NO
+27,18-24,Male,Serbia,High School,25000-50000,YES,NO,Not Satisfied,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO
+28,45-54,Female,Bulgaria,Bachelor's,25000-50000,YES,YES,Satisfied,YES,YES,YES,NO,NO,YES,NO,NO,NO,YES,NO
+29,25-34,Male,Romania,High School,25000-50000,YES,NO,Not Satisfied,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO
+30,35-44,Female,Greece,Bachelor's,50000-75000,YES,YES,Satisfied,YES,NO,YES,YES,NO,NO,NO,YES,NO,NO,NO
+31,18-24,Male,Portugal,High School,25000-50000,YES,NO,Not Satisfied,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO
+32,55-64,Female,Ireland,Bachelor's,50000-75000,YES,YES,Satisfied,YES,YES,NO,YES,NO,NO,YES,NO,NO,NO,NO
+33,25-34,Male,Iceland,Master's,75000-100000,YES,YES,Satisfied,YES,NO,YES,YES,NO,NO,NO,YES,NO,NO,NO
+34,35-44,Female,Luxembourg,PhD,100000+,YES,YES,Satisfied,YES,YES,YES,NO,NO,YES,NO,NO,NO,YES,NO
+35,18-24,Male,Malta,High School,25000-50000,YES,NO,Not Satisfied,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO
+36,45-54,Female,Estonia,Bachelor's,50000-75000,YES,YES,Satisfied,YES,YES,NO,YES,NO,NO,YES,NO,NO,NO,NO
+37,25-34,Male,Latvia,High School,25000-50000,YES,NO,Not Satisfied,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO
+38,35-44,Female,Lithuania,Bachelor's,50000-75000,YES,YES,Satisfied,YES,NO,YES,YES,NO,NO,NO,YES,NO,NO,NO
+39,18-24,Male,Cyprus,High School,25000-50000,YES,NO,Not Satisfied,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO
+40,55-64,Female,South Korea,Bachelor's,50000-75000,YES,YES,Satisfied,YES,YES,YES,NO,NO,YES,NO,NO,NO,YES,NO
+41,25-34,Male,Singapore,Master's,75000-100000,YES,YES,Satisfied,YES,NO,YES,YES,NO,NO,NO,YES,NO,NO,NO
+42,35-44,Female,Malaysia,Bachelor's,50000-75000,YES,YES,Satisfied,YES,YES,NO,YES,NO,NO,YES,NO,NO,NO,NO
+43,18-24,Male,Thailand,High School,25000-50000,YES,NO,Not Satisfied,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO
+44,45-54,Female,Vietnam,Bachelor's,25000-50000,YES,YES,Satisfied,YES,YES,YES,NO,NO,YES,NO,NO,NO,YES,NO
+45,25-34,Male,Philippines,High School,25000-50000,YES,NO,Not Satisfied,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO
+46,35-44,Female,Indonesia,Bachelor's,50000-75000,YES,YES,Satisfied,YES,NO,YES,YES,NO,NO,NO,YES,NO,NO,NO
+47,18-24,Male,China,High School,25000-50000,YES,NO,Not Satisfied,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO
+48,55-64,Female,Taiwan,Bachelor's,50000-75000,YES,YES,Satisfied,YES,YES,NO,YES,NO,NO,YES,NO,NO,NO,NO
+49,25-34,Male,Hong Kong,Master's,75000-100000,YES,YES,Satisfied,YES,NO,YES,YES,NO,NO,NO,YES,NO,NO,NO
+50,35-44,Female,New Zealand,Bachelor's,50000-75000,YES,YES,Satisfied,YES,YES,NO,YES,NO,NO,YES,NO,NO,NO,NO
+51,18-24,Male,South Africa,High School,25000-50000,YES,NO,Not Satisfied,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO
+52,45-54,Female,Nigeria,Bachelor's,25000-50000,YES,YES,Satisfied,YES,YES,YES,NO,NO,YES,NO,NO,NO,YES,NO
+53,25-34,Male,Kenya,High School,25000-50000,YES,NO,Not Satisfied,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO
+54,35-44,Female,Ghana,Bachelor's,50000-75000,YES,YES,Satisfied,YES,NO,YES,YES,NO,NO,NO,YES,NO,NO,NO
+55,18-24,Male,Uganda,High School,25000-50000,YES,NO,Not Satisfied,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO
+56,55-64,Female,Tanzania,Bachelor's,25000-50000,YES,YES,Satisfied,YES,YES,YES,NO,NO,YES,NO,NO,NO,YES,NO
+57,25-34,Male,Ethiopia,High School,25000-50000,YES,NO,Not Satisfied,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO
+58,35-44,Female,Morocco,Bachelor's,50000-75000,YES,YES,Satisfied,YES,NO,YES,YES,NO,NO,NO,YES,NO,NO,NO
+59,18-24,Male,Egypt,High School,25000-50000,YES,NO,Not Satisfied,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO
+60,45-54,Female,Tunisia,Bachelor's,50000-75000,YES,YES,Satisfied,YES,YES,NO,YES,NO,NO,YES,NO,NO,NO,NO
+61,25-34,Male,Algeria,High School,25000-50000,YES,NO,Not Satisfied,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO
+62,35-44,Female,Libya,Bachelor's,50000-75000,YES,YES,Satisfied,YES,NO,YES,YES,NO,NO,NO,YES,NO,NO,NO
+63,18-24,Male,Sudan,High School,25000-50000,YES,NO,Not Satisfied,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO
+64,55-64,Female,Chad,Bachelor's,25000-50000,YES,YES,Satisfied,YES,YES,YES,NO,NO,YES,NO,NO,NO,YES,NO
+65,25-34,Male,Niger,High School,25000-50000,YES,NO,Not Satisfied,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO
+66,35-44,Female,Mali,Bachelor's,50000-75000,YES,YES,Satisfied,YES,NO,YES,YES,NO,NO,NO,YES,NO,NO,NO
+67,18-24,Male,Burkina Faso,High School,25000-50000,YES,NO,Not Satisfied,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO
+68,45-54,Female,Senegal,Bachelor's,50000-75000,YES,YES,Satisfied,YES,YES,NO,YES,NO,NO,YES,NO,NO,NO,NO
+69,25-34,Male,Guinea,High School,25000-50000,YES,NO,Not Satisfied,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO
+70,35-44,Female,Sierra Leone,Bachelor's,50000-75000,YES,YES,Satisfied,YES,NO,YES,YES,NO,NO,NO,YES,NO,NO,NO
+71,18-24,Male,Liberia,High School,25000-50000,YES,NO,Not Satisfied,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO
+72,55-64,Female,Ivory Coast,Bachelor's,25000-50000,YES,YES,Satisfied,YES,YES,YES,NO,NO,YES,NO,NO,NO,YES,NO
+73,25-34,Male,Togo,High School,25000-50000,YES,NO,Not Satisfied,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO
+74,35-44,Female,Benin,Bachelor's,50000-75000,YES,YES,Satisfied,YES,NO,YES,YES,NO,NO,NO,YES,NO,NO,NO
+75,18-24,Male,Cameroon,High School,25000-50000,YES,NO,Not Satisfied,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO
+76,45-54,Female,Central African Republic,Bachelor's,50000-75000,YES,YES,Satisfied,YES,YES,NO,YES,NO,NO,YES,NO,NO,NO,NO
+77,25-34,Male,Equatorial Guinea,High School,25000-50000,YES,NO,Not Satisfied,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO
+78,35-44,Female,Gabon,Bachelor's,50000-75000,YES,YES,Satisfied,YES,NO,YES,YES,NO,NO,NO,YES,NO,NO,NO
+79,18-24,Male,Congo,High School,25000-50000,YES,NO,Not Satisfied,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO
+80,55-64,Female,DR Congo,Bachelor's,25000-50000,YES,YES,Satisfied,YES,YES,YES,NO,NO,YES,NO,NO,NO,YES,NO
+81,25-34,Male,Angola,High School,25000-50000,YES,NO,Not Satisfied,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO
+82,35-44,Female,Zambia,Bachelor's,50000-75000,YES,YES,Satisfied,YES,NO,YES,YES,NO,NO,NO,YES,NO,NO,NO
+83,18-24,Male,Zimbabwe,High School,25000-50000,YES,NO,Not Satisfied,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO
+84,45-54,Female,Botswana,Bachelor's,50000-75000,YES,YES,Satisfied,YES,YES,NO,YES,NO,NO,YES,NO,NO,NO,NO
+85,25-34,Male,Namibia,High School,25000-50000,YES,NO,Not Satisfied,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO
+86,35-44,Female,Lesotho,Bachelor's,50000-75000,YES,YES,Satisfied,YES,NO,YES,YES,NO,NO,NO,YES,NO,NO,NO
+87,18-24,Male,Eswatini,High School,25000-50000,YES,NO,Not Satisfied,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO
+88,55-64,Female,Madagascar,Bachelor's,25000-50000,YES,YES,Satisfied,YES,YES,YES,NO,NO,YES,NO,NO,NO,YES,NO
+89,25-34,Male,Mauritius,High School,25000-50000,YES,NO,Not Satisfied,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO
+90,35-44,Female,Seychelles,Bachelor's,50000-75000,YES,YES,Satisfied,YES,NO,YES,YES,NO,NO,NO,YES,NO,NO,NO
+91,18-24,Male,Comoros,High School,25000-50000,YES,NO,Not Satisfied,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO
+92,45-54,Female,Djibouti,Bachelor's,50000-75000,YES,YES,Satisfied,YES,YES,NO,YES,NO,NO,YES,NO,NO,NO,NO
+93,25-34,Male,Somalia,High School,25000-50000,YES,NO,Not Satisfied,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO
+94,35-44,Female,Eritrea,Bachelor's,50000-75000,YES,YES,Satisfied,YES,NO,YES,YES,NO,NO,NO,YES,NO,NO,NO
+95,18-24,Male,Israel,High School,25000-50000,YES,NO,Not Satisfied,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO
+96,55-64,Female,Lebanon,Bachelor's,50000-75000,YES,YES,Satisfied,YES,YES,NO,YES,NO,NO,YES,NO,NO,NO,NO
+97,25-34,Male,Syria,High School,25000-50000,YES,NO,Not Satisfied,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO
+98,35-44,Female,Jordan,Bachelor's,50000-75000,YES,YES,Satisfied,YES,NO,YES,YES,NO,NO,NO,YES,NO,NO,NO
+99,18-24,Male,Iraq,High School,25000-50000,YES,NO,Not Satisfied,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO
+100,45-54,Female,Iran,Bachelor's,50000-75000,YES,YES,Satisfied,YES,YES,NO,YES,NO,NO,YES,NO,NO,NO,NO 
