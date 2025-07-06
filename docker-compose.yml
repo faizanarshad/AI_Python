@@ -8,7 +8,7 @@ services:
   dashboard:
     build:
       context: .
-      dockerfile: Dockerfile
+      dockerfile: docker/production/Dockerfile
     container_name: ai-ecommerce-dashboard
     ports:
       - "8501:8501"
@@ -36,7 +36,7 @@ services:
   dashboard-dev:
     build:
       context: .
-      dockerfile: Dockerfile.dev
+      dockerfile: docker/development/Dockerfile
     container_name: ai-ecommerce-dashboard-dev
     ports:
       - "8502:8501"
@@ -63,8 +63,8 @@ services:
       - "80:80"
       - "443:443"
     volumes:
-      - ./nginx/nginx.conf:/etc/nginx/nginx.conf:ro
-      - ./nginx/ssl:/etc/nginx/ssl:ro
+      - ./docker/nginx/nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./docker/nginx/ssl:/etc/nginx/ssl:ro
     depends_on:
       - dashboard
     restart: unless-stopped

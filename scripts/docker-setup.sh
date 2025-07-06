@@ -87,7 +87,7 @@ check_data_files() {
 build_image() {
     print_status "Building Docker image..."
     
-    if docker build -t ai-ecommerce-dashboard:latest .; then
+    if docker build -f docker/production/Dockerfile -t ai-ecommerce-dashboard:latest .; then
         print_success "Docker image built successfully!"
     else
         print_error "Failed to build Docker image."
@@ -120,7 +120,7 @@ run_production() {
 run_development() {
     print_status "Starting development container..."
     
-    if docker-compose --profile dev up -d dashboard-dev; then
+    if docker-compose -f docker-compose.yml -f docker/docker-compose.override.yml up -d; then
         print_success "Development container started successfully!"
         echo ""
         echo -e "${CYAN}🌐 Access your development dashboard at:${NC}"
@@ -133,9 +133,9 @@ run_development() {
         echo -e "   ✅ Development tools included"
         echo ""
         echo -e "${YELLOW}📋 Useful commands:${NC}"
-        echo -e "   View logs: ${CYAN}docker-compose logs -f dashboard-dev${NC}"
+        echo -e "   View logs: ${CYAN}docker-compose logs -f dashboard${NC}"
         echo -e "   Stop:      ${CYAN}docker-compose down${NC}"
-        echo -e "   Restart:   ${CYAN}docker-compose restart dashboard-dev${NC}"
+        echo -e "   Restart:   ${CYAN}docker-compose restart dashboard${NC}"
     else
         print_error "Failed to start development container."
         exit 1
@@ -146,7 +146,7 @@ run_development() {
 run_production_stack() {
     print_status "Starting production stack with Nginx..."
     
-    if docker-compose --profile production up -d; then
+    if docker-compose -f docker-compose.yml -f docker/docker-compose.prod.yml up -d; then
         print_success "Production stack started successfully!"
         echo ""
         echo -e "${CYAN}🌐 Access your dashboard at:${NC}"

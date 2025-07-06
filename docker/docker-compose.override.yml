@@ -1,0 +1,16 @@
+# 🚀 AI-Powered E-commerce Analytics Hub - Docker Compose Override
+# Development-specific overrides
+
+services:
+  dashboard:
+    build:
+      dockerfile: docker/development/Dockerfile
+    environment:
+      - STREAMLIT_SERVER_HEADLESS=false
+      - STREAMLIT_SERVER_RUN_ON_SAVE=true
+    volumes:
+      - .:/app
+      - ./assets/data:/app/assets/data:ro
+      - ./logs:/app/logs
+    ports:
+      - "8502:8501"  # Use different port for development 
